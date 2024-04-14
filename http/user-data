@@ -9,6 +9,7 @@ autoinstall:
     allow-pw: true
   packages:
     - sudo
+    - qemu-guest-agent
   storage:
     layout:
       name: direct
